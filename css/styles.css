@@ -675,9 +675,7 @@ textarea {
 }
 
 .close-popup:hover,
-.close-popup:focus,
-.close-popup-icon:hover,
-.close-popup-icon:focus {
+.close-popup:focus {
   background-color: #404bbf;
   fill: #fff;
   border: none;
